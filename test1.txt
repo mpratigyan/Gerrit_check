@@ -3,3 +3,7 @@ test1 file
 test file : hello
 
 test file : hello world
+
+test file : add line 1
+
+test file: add line 2
